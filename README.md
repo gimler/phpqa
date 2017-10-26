@@ -24,6 +24,7 @@ Docker image providing static analysis tools for PHP.
 * phpDocumentor - [Documentation generator](https://www.phpdoc.org/)
 * phpa - [Checks for weak assumptions](https://github.com/rskuipers/php-assumptions)
 * phpca - [Finds usage of non-built-in extensions](https://github.com/wapmorgan/PhpCodeAnalyzer)
+* phpda - [Static code analysis to find violations in a dependency graph](https://github.com/mamuz/PhpDependencyAnalysis)
 * phpcb - [PHP Code Browser](https://github.com/mayflower/PHP_CodeBrowser)
 * phpcbf - [Automatically corrects coding standard violations](https://github.com/squizlabs/PHP_CodeSniffer)
 * phpcf - [Finds usage of deprecated features](http://wapmorgan.github.io/PhpCodeFixer/)
